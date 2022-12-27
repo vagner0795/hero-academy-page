@@ -34,10 +34,10 @@ const App = () => {
         <H1>Bem-Vindo Herói</H1>
 
         <InputLabel>Nome</InputLabel>
-        <Input ref={inputName} placeholder="Nome" />
+        <Input ref={inputName} placeholder="Nome" autoComplete="disabled" />
 
         <InputLabel>Idade</InputLabel>
-        <Input ref={inputAge} placeholder="Idade" />
+        <Input ref={inputAge} placeholder="Idade" autoComplete="disabled" />
 
         <Button onClick={addNewUser}>
           Cadastrar <img alt="seta" src={Arrow} />

@@ -35,4 +35,12 @@ img{
     transform: ${rest => rest.isBack ? 'rotateY(180deg)' : '' } ;
 }
 
+@media (max-width: 600px) {
+
+width: 100%;
+height: 50px;
+margin-top: 70px;
+    
+  }
+
 `;

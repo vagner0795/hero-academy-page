@@ -7,5 +7,12 @@ line-height: 40px;
 text-align: center;
 color: #ffffff;
 margin-bottom: 80px;
+
+@media (max-width: 600px) {
+
+font-size: 24px;
+
+margin-bottom: 50px;
+  }
     
 `;

@@ -15,6 +15,12 @@ gap: 40px;
 export const Image = styled.img`
   margin-top: 30px;
   width: 350px;
+
+  @media (max-width: 600px) {
+
+width: 250px;
+    
+  }
 `;
 
 export const User = styled.li`
@@ -46,5 +52,11 @@ export const User = styled.li`
     background: none;
     border: none;
     cursor: pointer;
+  }
+
+  @media (max-width: 600px) {
+
+width: 100%;
+    
   }
 `;
