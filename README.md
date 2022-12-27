@@ -1,9 +1,9 @@
 # Hero Academy Page
 
-<img src="../../react-project/tela-cadastro/src/assets/results/home-pc.png" alt="image-result"/>
-<img src="../../react-project/tela-cadastro/src/assets/results/user-pc.png" alt="image-result"/>
-<img src="../../react-project/tela-cadastro/src/assets/results/home-mobile.png" alt="image-result"/>
-<img src="../../react-project/tela-cadastro/src/assets/results/user-mobile.png" alt="image-result"/>
+<img src="../../src/assets/results/home-pc.png" alt="image-result"/>
+<img src="../../src/assets/results/user-pc.png" alt="image-result"/>
+<img src="../../src/assets/results/home-mobile.png" alt="image-result"/>
+<img src="../../src/assets/results/user-mobile.png" alt="image-result"/>
 
 > Resultado Hero Academy Project.
 
@@ -19,7 +19,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="../tela-cadastro/src/assets/results/vagner_photo.jpg"/><br>
+        <img src="../src/assets/results/vagner_photo.jpg"/><br>
         <sub>
           <b>Vagner Santos</b>
         </sub>
