@@ -16,7 +16,7 @@ const App = () => {
   const history = useHistory();
 
   async function addNewUser() {
-    const { data: newUser } = await axios.post("http://localhost:3001/order", {
+    const { data: newUser } = await axios.post("https://my-api-coral.vercel.app/order", {
       name: inputName.current.value,
       age: inputAge.current.value,
     });
