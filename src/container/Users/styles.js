@@ -39,8 +39,8 @@ export const User = styled.li`
   font-size: 20px;
   line-height: 28px;
   color: #ffffff;
-  margin-bottom: 34px;
-  margin-top: 20px;
+  margin-bottom: 24px;
+  margin-top: 10px;
 
   p {
     font-size: 20px;

@@ -5,7 +5,7 @@ width: 342px;
 height: 74px;
 left: 35px;
 top: 497px;
-margin-top: 130px;
+margin-top: ${ rest => rest.isBack ? '50px' : '45px'};
 text-decoration: none;
 
 background: ${ rest => rest.isBack ? 'transparent' : '#F2E205'};
